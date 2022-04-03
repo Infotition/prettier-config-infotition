@@ -1,5 +1,5 @@
 {
-  "name": "prettier-config-infotition",
+  "name": "@infotition/prettier-config",
   "version": "1.0.0",
   "description": "Infotition standard Prettier config",
   "main": "index.json",

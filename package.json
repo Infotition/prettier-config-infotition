@@ -16,7 +16,8 @@
   "author": "Infotition",
   "license": "MIT",
   "scripts": {
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "clean": "npx rimraf node_modules .husky/_"
   },
   "devDependencies": {
     "husky": "^7.0.4"

@@ -19,3 +19,10 @@
    ```bash
    yarn add -D @infotition/prettier-config
    ```
+
+2. Create add the following entry to the root level `package.json` file:
+   ```json
+   {
+     "prettier": "@infotition/prettier-config"
+   }
+   ```

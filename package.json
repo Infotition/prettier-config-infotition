@@ -12,6 +12,7 @@
     "infotition",
     "styleguide"
   ],
+  "files": ["./index.json"],
   "author": "Infotition",
   "license": "MIT",
   "scripts": {

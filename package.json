@@ -1,0 +1,17 @@
+{
+  "name": "prettier-config-infotition",
+  "version": "1.0.0",
+  "description": "Infotition standard Prettier config",
+  "main": "index.json",
+  "repository": "https://github.com/Infotition/prettier-config-infotition.git",
+  "bugs": { "url": "https://github.com/Infotition/prettier-config-infotition/issues" },
+  "homepage": "https://github.com/Infotition/prettier-config-infotition#readme",
+  "keywords": [
+    "prettier",
+    "prettierconfig",
+    "infotition",
+    "styleguide"
+  ],
+  "author": "Infotition",
+  "license": "MIT"
+}
